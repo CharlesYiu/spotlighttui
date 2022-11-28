@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "bin": {
+    "spotlighttui": "src/index.js"
+  },
+  "name": "spotlighttui",
+  "description": "run actions conveniently.",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/charlesyiu/spotlighttui"
+  },
+  "keywords": [
+    "tui",
+    "linux",
+    "spotlight",
+    "shortcuts"
+  ],
+  "author": "charles yiu",
+  "license": "ISC"
+}
